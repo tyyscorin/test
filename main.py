@@ -1,3 +1,10 @@
-
-
-
+x=input("Can you decribe team effort")
+y= input("What skills do you offer?")
+f= input("Are you applying for a fulltime or part-time position at this establishment?")
+k= input("Are you a person that listens well and hears other peers out?")
+t= input("What are your strengths and weaknesses?")
+print (x)
+print (y)
+print (f)
+print (k)
+print(t)
