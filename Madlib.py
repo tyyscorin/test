@@ -7,3 +7,4 @@ print(f"The {q1}astronaut decided")
 print(f"to {q2} on Mars, Suddenly")
 print(f"a {q3}stole all of")
 print(f"their {q4} and ran away very {q5}")
+
