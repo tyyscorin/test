@@ -16,6 +16,28 @@ if x == "false":
     score = score + 2
 else:
     print("INCORRECT!")
+    if score > 0:
+        score = score - 2
+
+g =input("What is the name of the third planet from the sun?")
+if g == "earth":
+    print("CORRECT!")
+    correct = correct + 1
+    score = score - 0
+else:
+    print("INCORRECT!")
+if score > 0:
+    score = score + 2
+
+p =input("What is the capital of france?")
+if p == "paris":
+    print("CORRECT!")
+    correct = correct + 1
+    score = score + 2
+else:
+    print("INCORRECT!")
+if score > 0:
+        score = score + 2
 
 
 
